@@ -9,7 +9,7 @@ entries:
       sources:
       - https://github.com/helm/helm
       urls:
-      - https://https://kushwahaghub.github.io/flux-sample-charts/aws-cloudwatch-metrics/aws-cloudwatch-metrics-0.0.5.tgz
+      - aws-cloudwatch-metrics/aws-cloudwatch-metrics-0.0.5.tgz
       version: 0.0.5
   cluster-autoscaler:
     - created: 2016-10-06T16:23:20.499543808-06:00
@@ -20,6 +20,6 @@ entries:
       sources:
       - https://github.com/helm/charts
       urls:
-      - https://kushwahaghub.github.io/flux-sample-charts/cluster-autoscaler/cluster-autoscaler-9.10.3.tgz
+      - cluster-autoscaler/cluster-autoscaler-9.10.3.tgz
       version: 9.10.3
 generated: 2016-10-06T16:23:20.499029981-06:00
